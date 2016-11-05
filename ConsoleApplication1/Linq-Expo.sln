@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expo", "Estilos\Expo.csproj", "{5966266D-1839-4B41-A414-2DD0B35DE688}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expo.Estilos", "Estilos\Expo.Estilos.csproj", "{5966266D-1839-4B41-A414-2DD0B35DE688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expo.UnitTesting", "Expo.UnitTesting\Expo.UnitTesting.csproj", "{8AEAB0E1-9696-41D3-AE09-1A07524654B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expo.QueryOperators", "QueryOperators\Expo.QueryOperators.csproj", "{EE3D097D-8964-4F9C-90FE-DF2DA3B099BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{5966266D-1839-4B41-A414-2DD0B35DE688}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5966266D-1839-4B41-A414-2DD0B35DE688}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5966266D-1839-4B41-A414-2DD0B35DE688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AEAB0E1-9696-41D3-AE09-1A07524654B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AEAB0E1-9696-41D3-AE09-1A07524654B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AEAB0E1-9696-41D3-AE09-1A07524654B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AEAB0E1-9696-41D3-AE09-1A07524654B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE3D097D-8964-4F9C-90FE-DF2DA3B099BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3D097D-8964-4F9C-90FE-DF2DA3B099BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3D097D-8964-4F9C-90FE-DF2DA3B099BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3D097D-8964-4F9C-90FE-DF2DA3B099BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

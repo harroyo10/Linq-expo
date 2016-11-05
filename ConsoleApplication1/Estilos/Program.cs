@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Expo
+namespace Expo.Estilos
 {
     class Program
     {
